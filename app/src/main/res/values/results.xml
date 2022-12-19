@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="team1_1">Wolves</string>
+
+    <string name="team2_1">Brentford</string>
+
+    <string name="teamscore1_1">0</string>
+
+    <string name="teamscore2_1">2</string>
+
+
+    <string name="team1_2">Burnley</string>
+
+    <string name="team2_2">Arsenal</string>
+
+    <string name="teamscore1_2">0</string>
+
+    <string name="teamscore2_2">1</string>
+
+
+    <string name="team1_3">Liverpool</string>
+
+    <string name="team2_3">Crystal Palace</string>
+
+    <string name="teamscore1_3">3</string>
+
+    <string name="teamscore2_3">0</string>
+
+
+    <string name="team1_4">Brentford</string>
+
+    <string name="team2_4">Arsenal</string>
+
+    <string name="teamscore1_4">2</string>
+
+    <string name="teamscore2_4">0</string>
+
+
+    <string name="team1_5">Man Utd</string>
+
+    <string name="team2_5">Leeds</string>
+
+    <string name="teamscore1_5">5</string>
+
+    <string name="teamscore2_5">1</string>
+
+
+    <string name="team1_6">Burnley</string>
+
+    <string name="team2_6">Brighton</string>
+
+    <string name="teamscore1_6">1</string>
+
+    <string name="teamscore2_6">2</string>
+
+</resources>
